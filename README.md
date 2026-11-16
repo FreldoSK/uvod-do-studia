@@ -1,3 +1,1 @@
 # uvod-do-studia
-test 
- 
